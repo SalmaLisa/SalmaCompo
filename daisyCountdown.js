@@ -1,3 +1,5 @@
+//with the activation JS of daisy UI countdown
+
 import React from "react";
 
 const CountDown = () => {
